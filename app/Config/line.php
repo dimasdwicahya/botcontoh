@@ -1,5 +1,5 @@
 <?php
 $config['line'] = [
-	'channelSecret' => 'a6b4b1a80d9f25eb0a719fc92cef7d86',
-	'accessToken' => '3/cEBpOR0mjAMUtnHKrSrx3N6FnMVNPYfXBIwMO6HNGaljxuxTxZz2fGrmZYFwqfV3dvAWMa7FEGrmOONfbZ7or1wxYgpjbtFMS0Mkk+RftjvYSrUpThxAHGiivf2M662z2zM5P8BSKby0dJiBG3GQdB04t89/1O/w1cDnyilFU='
+	'channelSecret' => 'f654960f6bad5ee41a8d42736732564a',
+	'accessToken' => 's7oO+7Bgq6n7go8rTNqdak+X5vKGt77+WhZU22Wt0MhTFbcm+o3hYqBx3i0eemh9p7VwKxhx8JV8PSQ0TkI16a7zrkUI1nUnTza+2lINBfPQUhcciN19G0i7yJt0N1f/KA1hPRBCgtl7bKpyPJu4HAdB04t89/1O/w1cDnyilFU='
 ];
